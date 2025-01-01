@@ -1,5 +1,5 @@
 {
-   "manifest_version": 3,
+   "manifest_version": 4,
    "games": {
       "ASBR": [
          {
@@ -8,7 +8,7 @@
             "author": "Kapilarny",
             "version": "1.0.0",
             "description": "Allows for the loadage of .cpk mods!",
-            "url": "http://raw.githubusercontent.com/Kapilarny/JAPI/master/plugins/CPKModLoader.dll",
+            "url": "https://github.com/JoJosBizarreModdingCommunity/JAPI_PluginRepository/raw/refs/heads/main/plugins/CPKModLoader.dll",
             "source_url": "https://github.com/Kapilarny/JAPI/",
             "lazy_load": false,
             "dependencies": []

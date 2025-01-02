@@ -17,7 +17,7 @@
             "name": "Free Camera",
             "guid": "FreeCam",
             "author": "Kapilarny & Kojo Bailey",
-            "version": "1.1.0",
+            "version": "1.0.0",
             "description": "Frees the camera!",
             "url": "https://github.com/JoJosBizarreModdingCommunity/JAPI_PluginRepository/raw/refs/heads/main/plugins/FreeCam.dll",
             "source_url": "https://github.com/JoJosBizarreModdingCommunity/ASBR_FreeCam",

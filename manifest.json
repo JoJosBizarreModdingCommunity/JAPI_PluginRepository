@@ -1,5 +1,5 @@
 {
-   "manifest_version": 6,
+   "manifest_version": 7,
    "games": {
       "ASBR": [
          {
@@ -21,7 +21,7 @@
             "description": "Frees the camera!",
             "url": "https://github.com/JoJosBizarreModdingCommunity/JAPI_PluginRepository/raw/refs/heads/main/plugins/FreeCam.dll",
             "source_url": "https://github.com/JoJosBizarreModdingCommunity/ASBR_FreeCam",
-            "lazy_load": true,
+            "lazy_load": false,
             "dependencies": []
          },
          {
@@ -32,6 +32,28 @@
             "description": "Allows for easy merging of otherwise incompatible mods!",
             "url": "https://github.com/JoJosBizarreModdingCommunity/JAPI_PluginRepository/raw/refs/heads/main/plugins/Merging.dll",
             "source_url": "https://github.com/KojoBailey/JAPI-XFBIN-Merger/",
+            "lazy_load": false,
+            "dependencies": []
+         },
+         {
+            "name": "No Cursor Trapping",
+            "guid": "NoCursorTrap",
+            "author": "Kapilarny",
+            "version": "1.0.0",
+            "description": "Unbounds the cursor from the games window confinement!",
+            "url": "https://github.com/JoJosBizarreModdingCommunity/JAPI_PluginRepository/raw/refs/heads/main/plugins/NoCursorTrap.dll",
+            "source_url": "https://github.com/JoJosBizarreModdingCommunity/ASBR_NoCursorTrap",
+            "lazy_load": false,
+            "dependencies": []
+         },
+         {
+            "name": "Skip Intro",
+            "guid": "SkipIntro",
+            "author": "Kapilarny",
+            "version": "1.0.0",
+            "description": "Skips the intro screens!",
+            "url": "https://github.com/JoJosBizarreModdingCommunity/JAPI_PluginRepository/raw/refs/heads/main/plugins/SkipIntro.dll",
+            "source_url": "https://github.com/JoJosBizarreModdingCommunity/ASBR_SkipIntro",
             "lazy_load": false,
             "dependencies": []
          }
